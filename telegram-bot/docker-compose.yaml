@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+  tbot:
+    container_name: tbot
+    build:
+      context: .
+    image: marketwifi/tbot:0.0.1
+

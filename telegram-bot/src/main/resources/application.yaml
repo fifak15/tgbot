@@ -1,0 +1,6 @@
+bot:
+  token: 5176051080:AAGl-ap5e3kH6r-yJmcLT1w8B6puTy7nLQM
+  #token: 2095574589:AAG7-2fNCjIEopeTdIod0iSlm5SFKx_Ng_I
+  username: amtel_marketwifi_registration
+registration:
+  url: http://10.155.240.238:8220/getonlineurl
